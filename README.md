@@ -34,7 +34,6 @@
 
 <p align="center">
 <img width="300" height="1048" alt="상세일정" src="https://github.com/user-attachments/assets/a2cb8a6c-25a4-43b4-b3c6-31472f1769e8" />
-
-
-
+<img width="300" height="1048" alt="KakaoTalk_20250928_210052443_11" src="https://github.com/user-attachments/assets/c852dbd5-b808-4a2a-9d9a-d2fc6b5edfc7" />
+<img width="300" height="1048" alt="KakaoTalk_20250928_210052443_08" src="https://github.com/user-attachments/assets/cacfa759-a68b-4620-a053-efb4b1857afa" />
 
